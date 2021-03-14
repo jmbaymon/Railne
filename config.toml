@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Pavolia Railne's Portfolio"
+theme = "basic"
